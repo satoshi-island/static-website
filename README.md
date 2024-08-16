@@ -1,3 +1,3 @@
 # New Changes coming soon
 
-![](./under-construction.jpg)
+![](assets/images/under-construction.jpg)
